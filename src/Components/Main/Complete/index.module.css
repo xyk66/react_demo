@@ -1,0 +1,26 @@
+.Box{
+    width: 150px;
+    height: auto;
+    border: 1px solid gray;
+    float: left;
+}
+
+.Header{
+    width:150px;
+    height: 30px;
+    /* border: 1px solid red; */
+    background-color:gray;
+    text-align: center;
+    line-height: 30px;
+}
+
+.Main{
+    margin-top:30px;
+    padding-top: 5px;
+    width:100%;
+    height:300px;
+    background-color:gray;
+    text-align:center;
+    vertical-align:middle;
+    position:relative;
+}

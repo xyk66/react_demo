@@ -1,0 +1,17 @@
+.start{
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    top : 0;
+    left : 0;
+    right : 0;
+    bottom : 0;
+    margin: auto;
+    background-color:pink;
+    border:transparent;
+    border-radius:5px;
+    text-align: center;
+    line-height: 30px;
+    text-decoration: none;
+    color: black;
+}
